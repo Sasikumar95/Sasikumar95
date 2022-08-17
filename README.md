@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sasikumar95
+- 👋 Hi, I’m @Sasikumar
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... fullstack development
